@@ -9,9 +9,9 @@ The Simple Quiz Mobile App is a mobile application that allows users to particip
 
 ## Screenshots
 
+![Screenshot 2](assets/Screenshot_1686620996.png)
 ![Screenshot 3](assets/Screenshot_1686621001.png)
 ![Screenshot 1](assets/Screenshot_1686620993.png)
-![Screenshot 2](assets/Screenshot_1686620996.png)
 
 ## Getting Started
 
